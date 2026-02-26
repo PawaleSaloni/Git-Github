@@ -1,25 +1,31 @@
 
-# 1. Introduction
+# 1️⃣ What is Git?
 
-## 🔹 What is Git?
+Git is a **Distributed Version Control System (DVCS)** used to track changes in source code during software development.
 
-Git is a **Distributed Version Control System (DVCS)** used to track changes in source code and collaborate efficiently.
+It helps developers:
 
-## 🔹 What is GitHub?
+- Track changes in files  
+- Maintain project history  
+- Work collaboratively in teams  
+- Revert mistakes safely  
+- Manage multiple versions of a project  
 
-GitHub is a **cloud-based platform** that hosts Git repositories and provides collaboration features like Pull Requests, Issues, and CI/CD.
-
----
-
-# 2. Difference Between Git and GitHub
-
-| Git | GitHub |
-|------|---------|
-| Version control tool | Repository hosting platform |
-| Works locally | Works online (cloud) |
-| Tracks file changes | Manages repositories |
-| Command-line based | Web UI + collaboration tools |
+Git is an industry-standard tool used in almost every software company.
 
 ---
 
-# 3. Git Basics
+# 2️⃣ Git Architecture-
+
+Git works with four important areas:
+
+Local Directory (Project Folder)
+        ↓
+Working Directory
+        ↓
+Staging Area
+        ↓
+Local Repository (.git)
+
+- Now let’s understand each clearly.
+  
