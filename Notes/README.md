@@ -27,5 +27,4 @@ Staging Area
         ↓
 Local Repository (.git)
 
-- Now let’s understand each clearly.
   
