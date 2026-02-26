@@ -11,8 +11,6 @@ It helps developers:
 - Revert mistakes safely  
 - Manage multiple versions of a project  
 
-Git is an industry-standard tool used in almost every software company.
-
 ---
 
 # 2️⃣ Git Architecture-
