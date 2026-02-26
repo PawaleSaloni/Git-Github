@@ -23,9 +23,3 @@ GitHub is a **cloud-based platform** that hosts Git repositories and provides co
 ---
 
 # 3. Git Basics
-
-## 📁 Git Configuration
-
-```bash
-git config --global user.name "Your Name"
-git config --global user.email "your@email.com"
