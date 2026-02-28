@@ -24,5 +24,3 @@ Working Directory
 Staging Area
         ↓
 Local Repository (.git)
-
-  
